@@ -1,0 +1,51 @@
+.Intro
+    {
+        margin: 0%;
+        background-color: rgba(128, 128, 128, 0.903);
+        padding-bottom: 30px ; 
+        width: 80%; 
+    }
+#paragraph_of_joli
+    {
+        margin-left: 60px ;
+        padding: 10px;
+        background-color: whitesmoke; 
+        width: 80%;
+        font-style: italic;
+        font-size: 17px;
+    }
+    
+.header
+    {
+        margin: 10px;
+        padding-top: 5px;
+        
+    }
+.navigation
+    {
+        width: 100%;
+        list-style-type: none;
+        background-color: #333333;
+        overflow: hidden; 
+        margin: 0%;
+    }
+ li
+    {
+        
+        float:left;
+    
+    }
+.navigation , a 
+    {
+        margin-right: 15px;
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        text-align: center;   
+        color: whitesmoke;
+    }
+li a:hover
+    {
+        background-color: #111111;
+    }
+
